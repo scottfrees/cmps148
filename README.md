@@ -27,3 +27,8 @@ to be a bit more bold, try installing `git` on your own computer, and using `git
 see specifically what has changed.
 
 BTW - Anything posted to this website is fair for you to use during exams.
+
+**Note** I will not regularly post source code to our Canvas page, as it's quicker and 
+more accurate for me to do this with `git`.  This way, you always see the most up to date
+versions of code we create in class, including any revisions I make later.  
+**Bookmark** this page!
